@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+      "target": "esnext",
+      "module": "commonjs",
+  }
+}
+
+//target : 타입스크립트 파일을 어떤 버전의 자바스크립트로 바꿔줄지 정하는 부분
+//module : 자바스크립트 파일간 import 문법을 구현할 때 어떤 문법을 쓸지 정하는 곳
