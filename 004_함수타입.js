@@ -33,3 +33,7 @@ function 함수3(x) {
 //   console.log(x+3)
 // }
 // 함수4()
+function food(price, name) {
+    console.log(price, name);
+}
+food(10000);

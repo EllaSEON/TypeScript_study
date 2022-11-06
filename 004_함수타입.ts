@@ -50,3 +50,4 @@ function food(price:number,name?:string|undefined):void{
 }
 
 food(10000); 
+
